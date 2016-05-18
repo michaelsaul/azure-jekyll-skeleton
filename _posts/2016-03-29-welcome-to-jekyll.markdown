@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome LA Azure User Group Meeting!"
 date:   2016-03-29 23:35:24 -0700
 categories: jekyll update
 ---
